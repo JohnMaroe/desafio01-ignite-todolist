@@ -6,6 +6,7 @@
 
 Rocketseat's bootcamp first challenge. <br />
 Focusing heavily on immutability, this first challenge serves as an introduction to it's concepts and React's features. :rocket:
+The application is simply a to-do list, demonstrating in practice various core features React has to offer.
 
 
 ## :satellite: How to run project
